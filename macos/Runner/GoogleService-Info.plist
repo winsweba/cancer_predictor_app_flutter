@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>5429794817-is8gdfosfjsu26ve0birkfrvouv9l69u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.5429794817-is8gdfosfjsu26ve0birkfrvouv9l69u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAbJygYlgE2wzDVUk-gNzjDDUxUCQHo-u8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>5429794817</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.tfliteTest</string>
+	<key>PROJECT_ID</key>
+	<string>cancer-ml-6b421</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cancer-ml-6b421.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:5429794817:ios:ee98adaf76d91326768800</string>
+</dict>
+</plist>

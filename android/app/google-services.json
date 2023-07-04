@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "5429794817",
+    "project_id": "cancer-ml-6b421",
+    "storage_bucket": "cancer-ml-6b421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5429794817:android:95e3fe684f74a850768800",
+        "android_client_info": {
+          "package_name": "com.example.tflite_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "5429794817-k1r31hceslm9r6367i2nepuakv49af71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu2RCo1h7ozq2s0LSIR8kaJoyAmxmdWrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "5429794817-k1r31hceslm9r6367i2nepuakv49af71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+Melanoma
+Basal cell carcinoma
+Squamos cell carcinoma
+Non cancerous
